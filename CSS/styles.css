@@ -21,5 +21,8 @@ body{
 }
 .anahi p {
     border-style:solid;
-    border-color:rgb(21, 119, 52)
+    border-color: rgb(21, 119, 52)
+    border: width 100px;
+    text-align:center;
+    background-color:rgba(207, 163, 54, 0.697)
 }
