@@ -1,31 +1,52 @@
 .anahi {
+    width: 200px;
+    height: auto;
+    float: left;
+    padding: 10%;
+    background-color: rgb(78, 149, 78);
+  }
+  .pina  {
+    width:200px;
+    height: auto;
+    float: left;
+    padding: 10%;
+    background-color:rgb(105, 91, 91);
+  }
+  .pizza  {
+    width:200px;
+    height: auto;
+    float: left;
+    padding: 10%;
+    background-color:rgb(105, 91, 91);
+  }
+.anahi p{
     border-style: solid;
     border-color: black;
     border-width: 2px;
     text-align: center;
-    background-color: rgb(207, 160, 100);
+    background-color: rgb(103, 47, 108);
     }
-.maria {
+.pizza p{
     border-style: solid;
     border-color: black;
     border-width: 2px;
     text-align: center;
-    background-color: rgb(207, 160, 100);
+    background-color: rgb(101, 75, 41);
   }
-  .nala p {
+.pina p{
     border-style: solid;
     border-color: black;
     border-width: 2px;
     text-align: center;
-    background-color: rgb(207, 160, 100);
+    background-color: rgb(59, 87, 32);
   }
-  .maria img{
+.pizza img{
     width: 200px;
   }
-  .anahi img{
+.anahi img{
     width: 200px;
   }
-  .nala img {
+.pina img{
     width:200px;
     
   }
@@ -36,17 +57,6 @@ h1{
 body{
     background-color: darkolivegreen;
 }
-.anahi p {
-    border-style:solid;
-    border-color: hsl(217, 39%, 40%)
-    text-align: center;
-    background-color: hsl(217, 39%, 40%)
-}
 p {
-    font-size: 20px;
-    line-height: 30px;
-}
-ul {
-        font-size: 20px;
-        line-height: 30px;
+    font-family: sans-serif;
 }
