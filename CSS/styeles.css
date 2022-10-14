@@ -1,18 +1,18 @@
 .anahi {
-    width: 200px;
-    height: 200px;
+    width: 400px;
+    height: auto;
     float: left;
     padding: 10%;
-    background-color: rgba(193, 116, 221, 0.626);
+    background-color: rgba(93, 46, 110, 0.626);
 }
 
 .anahi img {
-width: 200px;
-height: 200px;;
+width: 400px;
+height:auto;
 }
 
 .anahi p {
-    border-style: solid;
-    border-color: black
+    border-style:dotted;
+    border-color:rgb(21, 119, 52)
 
 }
