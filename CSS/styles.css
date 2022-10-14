@@ -11,6 +11,13 @@ width: 400px;
 height:auto;
 }
 
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: darkolivegreen;
+}
 .anahi p {
     border-style:dotted;
     border-color:rgb(21, 119, 52)
