@@ -1,17 +1,34 @@
 .anahi {
-    width: 400px;
-    height: auto;
-    float: left;
-    padding: 10%;
-    background-color: rgba(93, 46, 110, 0.626);
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    text-align: center;
+    background-color: rgb(207, 160, 100);
+    }
+.maria {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    text-align: center;
+    background-color: rgb(207, 160, 100);
+  }
+  .nala p {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    text-align: center;
+    background-color: rgb(207, 160, 100);
+  }
+  .maria img{
+    width: 200px;
+  }
+  .anahi img{
+    width: 200px;
+  }
+  .nala img {
+    width:200px;
     
-}
-
-.anahi img {
-width: 400px;
-height:auto;
-}
-
+  }
 h1{
     text-align: center;
 }
@@ -21,8 +38,15 @@ body{
 }
 .anahi p {
     border-style:solid;
-    border-color: rgb(21, 119, 52)
-    border: width 100px;
-    text-align:center;
-    background-color:rgba(207, 163, 54, 0.697)
+    border-color: hsl(217, 39%, 40%)
+    text-align: center;
+    background-color: hsl(217, 39%, 40%)
+}
+p {
+    font-size: 20px;
+    line-height: 30px;
+}
+ul {
+        font-size: 20px;
+        line-height: 30px;
 }
