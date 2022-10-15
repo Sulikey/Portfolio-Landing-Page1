@@ -1,62 +1,72 @@
 .anahi {
-    width: 200px;
+    width: 300px;
     height: auto;
     float: left;
-    padding: 10%;
+    padding: 4%;
     background-color: rgb(78, 149, 78);
-  }
-  .pina  {
-    width:200px;
+}
+.pizza {
+    width: 300px;
     height: auto;
     float: left;
-    padding: 10%;
-    background-color:rgb(105, 91, 91);
-  }
-  .pizza  {
-    width:200px;
+    padding: 4%;
+    background-color: rgba(162, 38, 152, 0.739);
+}
+.pina {
+    width: 300px;
     height: auto;
     float: left;
-    padding: 10%;
-    background-color:rgb(105, 91, 91);
+    padding: 4%;
+    background-color: rgb(44, 115, 154);
+}
+.anahi img {
+    width: 300px;
+   
   }
-.anahi p{
-    border-style: solid;
-    border-color: black;
-    border-width: 2px;
-    text-align: center;
-    background-color: rgb(103, 47, 108);
-    }
-.pizza p{
-    border-style: solid;
-    border-color: black;
-    border-width: 2px;
-    text-align: center;
-    background-color: rgb(101, 75, 41);
-  }
-.pina p{
-    border-style: solid;
-    border-color: black;
-    border-width: 2px;
-    text-align: center;
-    background-color: rgb(59, 87, 32);
-  }
-.pizza img{
-    width: 200px;
-  }
-.anahi img{
-    width: 200px;
-  }
-.pina img{
-    width:200px;
+  
+.pizza img {
+    width: 300px;
+}
+.pina img {
+    width: 300px;
     
-  }
-h1{
+}
+h1 {
     text-align: center;
 }
-
-body{
-    background-color: darkolivegreen;
+h2 {
+    text-align: center;
 }
-p {
-    font-family: sans-serif;
+body {
+    background-color: rgb(101, 90, 138);
+}
+.anahi p {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    text-align: center;
+    background-color:  rgba(162, 38, 152, 0.739);
+    padding: 10%;
+    display: inline-block;
+    text-align: left;
+}
+.pizza ul {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    text-align: center;
+    background-color: rgb(44, 115, 154);
+    padding: 13%;
+    display: inline-block;
+    text-align: left;
+}
+.pina ol {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    text-align: center;
+    background-color: rgb(78, 149, 78);
+    padding: 40%;
+    display: inline-block;
+    text-align: left;
 }
