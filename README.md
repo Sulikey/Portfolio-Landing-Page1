@@ -25,6 +25,6 @@ _This is a webpage that will give you more insight on fun activies I enjoy and a
 
 ## License
 
-_[MIT]https://choosealicense.com/licenses/mit/_
+_[MIT](https://choosealicense.com/licenses/mit/)_
 
 Copyright (c) _10/14/2022_ _Anahi Ruiz Robles_
